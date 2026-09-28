@@ -1,0 +1,16 @@
+{
+  "name": "ScamGuard AI — Live Call Sentinel",
+  "short_name": "ScamGuard AI",
+  "description": "Real-time AI anti-fraud and live call coercion protection assistant.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b101d",
+  "theme_color": "#0b101d",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/shield_lock/default/48px.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
